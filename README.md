@@ -1,2 +1,2 @@
 # crypto
-Cryptographic utilities for WebWallet modules
+Cryptographic utilities for WebWallet modules.

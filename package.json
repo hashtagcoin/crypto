@@ -1,0 +1,25 @@
+{
+  "name": "@webwallet/crypto",
+  "version": "1.0.0",
+  "description": "Cryptographic utilities for WebWallet modules.",
+  "main": "index.js",
+  "scripts": {
+    "test": "npm test"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/webwallet/crypto.git"
+  },
+  "keywords": [
+    "webwallet",
+    "crypto",
+    "hashing",
+    "signing"
+  ],
+  "author": "webwallet.org",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/webwallet/crypto/issues"
+  },
+  "homepage": "https://github.com/webwallet/crypto#readme"
+}
